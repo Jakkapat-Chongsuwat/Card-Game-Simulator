@@ -1,9 +1,6 @@
 name: Acquire activation file
 
 on:
-  push:
-    branches:
-      - android-workflow
   workflow_dispatch:
 
 jobs:
